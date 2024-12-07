@@ -1,4 +1,4 @@
-# RISC-V Important Documentes
+# RISC-V Important Documents
 
 ## Core Specifications
 
