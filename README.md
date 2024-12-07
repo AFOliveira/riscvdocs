@@ -1,4 +1,4 @@
-# RISC-V Documentation Links
+# RISC-V Important Documentes
 
 ## Core Specifications
 
@@ -11,7 +11,7 @@
 | Unified Database | https://github.com/riscv-software-src/riscv-unified-db |
 | Sail Model | https://github.com/riscv/sail-riscv |
 
-## Latest Updates and Specifications
+## Updates Page
 
 - Technical Specifications Wiki: https://lf-riscv.atlassian.net/wiki/spaces/HOME/pages/16154769/RISC-V+Technical+Specifications#ISA-Specifications
 
