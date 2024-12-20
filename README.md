@@ -15,13 +15,12 @@
 
 - Technical Specifications Wiki: https://lf-riscv.atlassian.net/wiki/spaces/HOME/pages/16154769/RISC-V+Technical+Specifications#ISA-Specifications
 
-## Official Resources
+## Other Resources
 
 - RISC-V International: https://riscv.org/
 - RISC-V GitHub Organization: https://github.com/riscv
 - RISC-V Non-ISA Specifications: https://github.com/riscv-non-isa
+- RISC-V Cheri Model: https://github.com/riscv/riscv-cheri
 
 
-## Security Bases
 
-https://github.com/riscv/riscv-cheri
